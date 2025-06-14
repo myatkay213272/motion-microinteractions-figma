@@ -7,6 +7,7 @@ This is a beginner-friendly design project created in Figma. It explores basic U
 👑 [New Message Preview](newmessage2.png)
 👑 [Tooltip Preview](tooltip1.png)
 👑 [Tooltip Preview](tooltip2.png)
+👑 [Parallax Preview](paralax3.png)
 
 🔗 [View the project in Figma](https://www.figma.com/design/0MPzivObRQhXLQ899BBRYI/Figma-First-Project?node-id=62-2&t=ahaPT1mxyOqGLuHh-1)
 
