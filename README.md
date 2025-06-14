@@ -5,6 +5,8 @@ This is a beginner-friendly design project created in Figma. It explores basic U
 👑 [New Message Preview](newmessage.png)
 👑 [New Message Preview](newmessage1.png)
 👑 [New Message Preview](newmessage2.png)
+👑 [New Message Preview](tooltip1.png)
+👑 [New Message Preview](tooltip2.png)
 
 🔗 [View the project in Figma](https://www.figma.com/design/0MPzivObRQhXLQ899BBRYI/Figma-First-Project?node-id=62-2&t=ahaPT1mxyOqGLuHh-1)
 
@@ -29,6 +31,12 @@ The goal of this design is to practice layout, shape styling, and simple compone
 - 📨 New message detection element — just like Gmail’s unread mail indicator
 - 📐 Auto layout and proper dimension control for responsive behavior
 
+  - 📥 **Login Form**
+  - Includes email and password input fields
+  - “Remember me” checkbox for user preferences
+  - Sign-in button with hover interaction
+  - **Password visibility toggle appears on hover** — like modern login forms
+
 ---
 
 ## 📁 File Structure
@@ -36,6 +44,10 @@ The goal of this design is to practice layout, shape styling, and simple compone
 All designs are organized into separate frames:
 - **Main UI Frame**
 - **Demo Circles and Shapes**
+- Login Form
+- Notification UI
+- Button & Shape Demos
+
 
 ---
 
